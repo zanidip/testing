@@ -1,4 +1,5 @@
 1
+thats a first thing
 2
 3
 function one:
@@ -10,7 +11,7 @@ function one:
 7
 8
 add function:
-  do something
+  do something important
   done
 9
 0
