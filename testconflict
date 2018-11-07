@@ -5,6 +5,7 @@ thats a first thing modif before commit
 function one:
   test that
   do this
+  test OOO
 4
 5
 thats a second modif after commit
@@ -14,6 +15,7 @@ thats a second modif after commit
 add function:
   do something important
   blabla
+  TEST OOO
   done
 9
 0
